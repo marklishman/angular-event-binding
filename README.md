@@ -1,4 +1,4 @@
-# angular-2-event-binding
+# angular-event-binding
 
 See how event bindings listen for DOM events such as `click` and `keypress` on standard HTML elements such as `button` and `input`.
 Includes drag and drop example.
